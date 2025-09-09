@@ -2,8 +2,9 @@
 <details> 
 <summary> CHAPTER 1 Introduction of mongodb </summary>
  
-   <details><summary> ''1.1 Manual MongoDB Installation Using Tarball Method </summary>
+   <details><summary> 1.1 Manual MongoDB Installation Using Tarball Method </summary>
        Installation Overview & Key Benefits
+
 The manual tarball installation method offers maximum flexibility and control for MongoDB deployments. This approach is particularly valuable for production environments with specific security requirements, custom directory structures, or offline installation scenarios.
 
 Download and Extract Binaries
@@ -23,16 +24,16 @@ Operating System
 64-bit Architecture Required: x86_64 (Intel Sandy Bridge+ or AMD Bulldozer+) and ARM64 (v8.2-A+)
 Supported Distributions:
 
-Ubuntu 22.04/24.04 LTS
-Red Hat Enterprise Linux 8/9
-CentOS Stream 8/9
-Rocky Linux 8/9
+    Ubuntu 22.04/24.04 LTS
+    Red Hat Enterprise Linux 8/9
+    CentOS Stream 8/9
+    Rocky Linux 8/9
 
 
 
-Hardware Specifications
+# Hardware Specifications
 
-Minimum Requirements:
+# Minimum Requirements:
 
 4GB RAM (16GB+ recommended)
 4 CPU cores minimum
